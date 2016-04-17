@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Dream</string>
+    <string name="texts"><u>忘记密码</u></string>
+    <string name="User"><u>用户协议</u></string>
+    <string name="Regist"><u>注册账号</u></string>
+</resources>
